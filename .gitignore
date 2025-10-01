@@ -1,0 +1,4 @@
+.vscode-server/
+*.log
+*.tmp
+node_modules/
